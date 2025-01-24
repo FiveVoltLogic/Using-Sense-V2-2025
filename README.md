@@ -78,6 +78,8 @@ The scanner is recognised as an SR300 when connected to Windows. There should be
 If these aren't all available it won't work properly. Uninstalling the drivers that are present and then disconnecting and re-connecting the scanner should trigger Windows update to download the latest drivers.
 [librealsense github issue](https://github.com/IntelRealSense/librealsense/issues/12926)
 
+There is a video on the 3D Systems website detailing how to properly update the Sense 2 scanner [here](https://support.3dsystems.com/s/article/Sense-2-Driver-Update-Win-10?language=en_US) though it's expected to be wildly out of date.
+
 
 ## IntelRealSense SDK
 [librealsense github](https://github.com/IntelRealSense/librealsense)
